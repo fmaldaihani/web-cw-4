@@ -9,7 +9,7 @@
 1. قم بربط صفحة ال html بصفحة styles.css
 2. قم بإدراج خط من خطوط قوقل،
    هذا رابط الخط المطلوب\
-   https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap
+  display=swa https://fonts.googleapis.com/css2?family=Cairo:wght@300&p
 3. قم بجعل صورة الكويت تبرمج خلفية الموقع، ستجد الصورة في ملف img
 
 ### المطلوب الثاني (شريط التنقل)
